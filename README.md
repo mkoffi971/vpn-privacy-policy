@@ -28,4 +28,4 @@ Contact
 
 If you have any questions or concerns, please feel free to contact us. You can email us at [mkoffi971@hotmail.com] for more information.
 
-Last updated: [21.03.2024 - day/month/year]
+Last updated: [06.04.2024 - day/month/year]
