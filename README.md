@@ -2,7 +2,7 @@
 
 Privacy Policy for "VPN - Unlimited Secure Access"
 
-This privacy policy explains how VPN - Unlimited Secure Access application collects, uses, processes, and discloses information to protect the privacy of its users. By downloading and using this application, you agree to this privacy policy.
+This privacy policy, under the umbrella of 'FreePublicSolutions.' explains how VPN - Unlimited Secure Access application collects, uses, processes, and discloses information to protect the privacy of its users. By downloading and using this application, you agree to this privacy policy.
 
 Information Collected
 
