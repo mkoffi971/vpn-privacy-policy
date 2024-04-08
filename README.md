@@ -20,12 +20,6 @@ Third-Party Services
 
 VPN - Unlimited Secure Access may integrate or access third-party services. These services may be used to enhance user experience, personalize advertisements, and provide analytics. The privacy policies of these third-party services apply when you access their applications.
 
-Changes to Privacy Policy
-
-This privacy policy may be updated or modified from time to time. Changes and updates will be published on this page, and they will be effective when they are implemented. It is important for our users to periodically check this page for updates and changes.
-
 Contact
 
 If you have any questions or concerns, please feel free to contact us. You can email us at [mkoffi971@hotmail.com] for more information.
-
-Last updated: [06.04.2024 - day/month/year]
