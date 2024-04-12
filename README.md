@@ -34,4 +34,4 @@ By downloading and using this application, you agree to the following terms:
 
 Contact
 
-If you have any questions or concerns, please feel free to contact us. You can email us at [mkoffi971@hotmail.com] for more information.
+If you have any questions or concerns, please feel free to contact us. You can email us at mkoffi971@hotmail.com for more information.
